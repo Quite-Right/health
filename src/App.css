@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.weight-distance {
+  font-size: 112px;
+  color: red;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.estimation-time {
+  font-size: 112px;
+  color: blue;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
